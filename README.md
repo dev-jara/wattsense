@@ -93,6 +93,11 @@ Antes de compilarlo en Arduino IDE:
 
 `secrets.h` esta ignorado por Git para evitar subir credenciales al repositorio.
 
+## Equipo
+- **Jose Manuel Jaramillo** dev-jara
+- **Luis Armando Guadarrama** Armandogma
+
+
 ## Notas
 
 La base de datos SQLite, el entorno virtual y los modelos entrenados se generan de forma local y no se suben al repositorio. Al iniciar la aplicacion, Flask crea las tablas necesarias y registra un dispositivo inicial llamado `Licuadora Cocina`.
